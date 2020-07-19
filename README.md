@@ -1,3 +1,5 @@
+# The repo for my blog site.
+
 # jekyll-theme-console
 
 A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
