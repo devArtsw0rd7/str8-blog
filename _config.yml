@@ -1,6 +1,14 @@
 # Site settings
 
-#google_analytics: UA-NNNNNNNN-N
+title: artsw0rd dev blog
+email: devArtsw0rd7@protonmail.com
+description: The Chronic(WHAT?!)cles of my first gig as a developer.
+#baseurl: 
+#url:
+twitter_username: 
+github_username:
+
+
 
 header_pages:
   - index.md
@@ -17,7 +25,13 @@ style: hacker # dark (default) light, or hacker
 #  Allow users to choose light or dark style based on their preferences 
 # (mostly affected by OS dark or light theme 
 # For details see https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
-listen_for_clients_preferred_style: true # true or false (default)
+# macOS LIGHT MODE == light style
+# macOS DARK MODE == dark style
+# USE OF EITHER light or dark will override the hacker style
+# listen_for_clients_preferred_style: true # true or false (default)
 
+# Build settings
 plugins:
   - jekyll-seo-tag
+
+  
