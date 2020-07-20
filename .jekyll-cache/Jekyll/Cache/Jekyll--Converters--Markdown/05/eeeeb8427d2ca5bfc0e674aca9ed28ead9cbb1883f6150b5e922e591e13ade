@@ -1,0 +1,51 @@
+I"�<h2 id="standup">Standup</h2>
+
+<h3 id="yesterday">Yesterday:</h3>
+
+<p>Read through:</p>
+<ul>
+  <li>Pension Automation Notebook</li>
+  <li>Pension Automation SharePoint</li>
+  <li>VBMS User Guide</li>
+</ul>
+
+<p>BPD Training- learned how to generate and work with the additional Veteran/Claim data that is needed to run it through automation</p>
+
+<p>Spent an hour with Andrew, Sean, and Joe getting an overview of the tool and watching Andrew work on the ScenarioReader. Joe had some great questions, and he’s been very helpful.</p>
+
+<h3 id="today">Today:</h3>
+<ul>
+  <li>Continue working through/pre-reading through the Onboarding Guide</li>
+  <li>Spend some more time on the BPDS ReadMe</li>
+  <li>Watch the recorded videos in the PA Notebook</li>
+  <li>PA QA Sync @ 11-11:30 am</li>
+  <li>Jira walkthrough @ 12 pm</li>
+  <li>Creating a graphic (ERD?) to get a high-level overview of the systems we use?</li>
+</ul>
+
+<h3 id="impediments">Impediments:</h3>
+<p>-Waiting on VA access</p>
+
+<h3 id="from-others-during-dsu">From others during DSU</h3>
+<ul>
+  <li>External Sprint review (Every other Thursday)</li>
+  <li>Porting the current tool over to Java</li>
+  <li>We have access to some online learning! Sweet!</li>
+</ul>
+
+<h2 id="what-i-actually-got-done">What I actually got done…</h2>
+
+<p>Lots of meetings!</p>
+
+<p>Close study of the VBMS Core User Guide and trying to understand exactly what it is that TigerTest team does in the grand scheme of things.</p>
+
+<p>Additionally, I’m finding that there are often impediments to getting things done. 
+Most often this has to do with the technical bits and pieces of access, authorization, and authentication.</p>
+
+<h2 id="pieces-are-starting-to-come-together">Pieces are starting to come together</h2>
+
+<p>I was able to watch a recorded training that Joe Mc did in May concerning the manual data creation process… long and brutal, but starting to make the process make more sense.</p>
+
+<p>I am brain dead!</p>
+
+:ET

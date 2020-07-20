@@ -1,0 +1,31 @@
+I"<h2 id="standup">Standup</h2>
+
+<h3 id="yesterday">Yesterday</h3>
+<ul>
+  <li>VBMS User Guide</li>
+  <li>Watched the Claims Script overview</li>
+  <li>Looked through DIC Surviving Spouse Data Staging.xlsx</li>
+  <li>Read ‘Veteran creation and data modification tools.docx’ by Sean K.</li>
+</ul>
+
+<h3 id="today">Today</h3>
+<ul>
+  <li>VBMS Rating User Guide/Awards User Guide</li>
+  <li>Video trainings (API/Claims)</li>
+  <li>Lefant timesheet training</li>
+  <li>Look on with Andrew/Sean @ 11 am</li>
+</ul>
+
+<h3 id="impediments">Impediments</h3>
+<ul>
+  <li>VA access</li>
+</ul>
+
+<h3 id="what-i-actually-did-today">What I actually did today</h3>
+
+<p>Today after our meetings, I jumped on a slack call with Andrew and Sean, which was good. Andrew is trying to get the tool functional, and so lots of debugging and refactoring at this point.</p>
+
+<p>Starting to get to know them better, they seem like good guys.</p>
+
+<p>After lots of debugging, we walked through the override process so I could see it working and Sean could update the Readme.</p>
+:ET

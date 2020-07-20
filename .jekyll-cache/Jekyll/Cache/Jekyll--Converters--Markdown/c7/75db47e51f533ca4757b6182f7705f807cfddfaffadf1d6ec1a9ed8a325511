@@ -1,0 +1,56 @@
+I"k<h2 id="macbook-pro-setup">MacBook Pro Setup</h2>
+
+<h3 id="here-are-my-macbook-specs">Here are my MacBook specs:</h3>
+
+<ul>
+  <li>MacBookPro 16,2</li>
+  <li>Silver</li>
+  <li>13-inch monitor</li>
+  <li>Four Thunderbolt 3 ports</li>
+  <li>2.0 GHz Quad-core i5</li>
+  <li>16 GB LPDDR4X memory</li>
+  <li>512 GB SSD</li>
+  <li>Touch Bar w/ Touch ID</li>
+</ul>
+
+<h3 id="configuration">Configuration</h3>
+
+<p>Here is how I like to configure my dev machines:</p>
+
+<h4 id="dev-tools">Dev Tools</h4>
+<ul>
+  <li>Homebrew  <code class="language-plaintext highlighter-rouge">/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"</code></li>
+  <li>Visual Studio Code <code class="language-plaintext highlighter-rouge">brew cask install visual-studio-code</code></li>
+  <li>Postman <code class="language-plaintext highlighter-rouge">brew cask install postman</code></li>
+</ul>
+
+<h4 id="communication-tools">Communication Tools</h4>
+<ul>
+  <li>Slack <code class="language-plaintext highlighter-rouge">brew cask install slack</code></li>
+</ul>
+
+<h4 id="software">Software</h4>
+<ul>
+  <li><a href="https://apps.apple.com/us/app-bundle/microsoft-365/id1450038993?mt=12">Microsoft Office (Word, Outlook, Excel, PowerPoint, OneDrive)</a></li>
+</ul>
+
+<h4 id="browsers">Browsers</h4>
+<ul>
+  <li>Safari (pre-installed on a Mac)</li>
+  <li>Google Chrome <code class="language-plaintext highlighter-rouge">brew cask install google-chrome</code></li>
+  <li><a href="https://www.mozilla.org/en-US/firefox/developer/">Firefox Developer Edition</a></li>
+</ul>
+
+<h4 id="menu-bar-apps">Menu Bar Apps</h4>
+<ul>
+  <li><a href="https://apps.apple.com/us/app/bettersnaptool/id417375580?mt=12">BetterSnapTool</a></li>
+</ul>
+
+<h3 id="visual-studio-code-configuration">Visual Studio Code Configuration</h3>
+
+<ul>
+  <li>Current Theme Extension: Cyberpunk</li>
+  <li>Python Lineter</li>
+</ul>
+
+:ET

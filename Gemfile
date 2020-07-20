@@ -4,8 +4,6 @@ source "https://rubygems.org"
 gemspec
 
 # Build and serve the site using this command:
-# sudo bundle exec jekyll serve
-
-
+# sudo bundle exec jekyll serve --livereload
 
 gem 'jekyll-seo-tag'
