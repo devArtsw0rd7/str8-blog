@@ -3,8 +3,8 @@
 title: artsw0rd dev blog
 email: devArtsw0rd7@protonmail.com
 description: The Chronic(WHAT?!)cles of my first gig as a developer.
-#baseurl: 
-#url:
+baseurl: "/str8-blog"
+url: "https://devartsw0rd7.github.io"
 twitter_username: 
 github_username:
 
