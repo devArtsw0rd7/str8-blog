@@ -3,5 +3,9 @@
 source "https://rubygems.org"
 gemspec
 
+# Build and serve the site using this command:
+# sudo bundle exec jekyll serve
+
+
 
 gem 'jekyll-seo-tag'

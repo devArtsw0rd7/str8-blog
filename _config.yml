@@ -1,15 +1,23 @@
-# Example Site settings
+# Site settings
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+  - index.md
+  - about.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
-#style: light # dark (default) or light
-#listen_for_clients_preferred_style: true # true or false (default)
+# Set blog style
+# dark => white text on black background
+# light => black text on white background
+# hacker => green text on black background
+style: hacker # dark (default) light, or hacker
+
+#  Allow users to choose light or dark style based on their preferences 
+# (mostly affected by OS dark or light theme 
+# For details see https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
+listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
