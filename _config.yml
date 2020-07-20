@@ -1,6 +1,6 @@
 # Site settings
 
-title: artsw0rd dev blog
+title: artsw0rd
 email: devArtsw0rd7@protonmail.com
 description: The Chronic(WHAT?!)cles of my first gig as a developer.
 baseurl: "/str8-blog"
@@ -8,11 +8,15 @@ url: "https://devartsw0rd7.github.io/"
 twitter_username: 
 github_username:
 
-
-
 header_pages:
   - index.md
   - about.md
+
+# Author is the default for posts
+author: Andrew Straight
+linkedin_username: andrewstraight
+copyright: "@rtsw0rd Dev"
+
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
