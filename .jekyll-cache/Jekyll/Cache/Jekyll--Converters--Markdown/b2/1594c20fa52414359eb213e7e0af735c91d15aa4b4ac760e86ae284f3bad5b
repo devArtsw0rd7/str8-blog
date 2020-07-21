@@ -1,4 +1,4 @@
-I"<h2 id="standup">Standup</h2>
+I"¯<h2 id="standup">Standup</h2>
 
 <h3 id="yesterday">Yesterday</h3>
 <ul>
@@ -13,9 +13,7 @@
 <ul>
   <li>VBMS Rating User Guide/Awards User Guide</li>
   <li>Watch the Claims Script overview</li>
-  <li>Watch API Overview</li>
   <li>VBMS Training @ 11 am</li>
-  <li></li>
 </ul>
 
 <h3 id="impediments">Impediments</h3>
@@ -33,8 +31,6 @@ PEN-3220 AAPI Automation of Entering Compensation Decisions</p>
 <p>Retrospective
 Pre-Planning session for Monday
 Mel Gerretsâ€™ VBMS Claim Overview Session
-Watch the Claims Script overview
-Watch the API Overview
-Do some React overview training</p>
+Watch the Claims Script overview</p>
 
 :ET
