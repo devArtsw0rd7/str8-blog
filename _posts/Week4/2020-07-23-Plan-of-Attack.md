@@ -7,4 +7,6 @@ categories: jekyll update
 
 ## Plan of Attack (Once I have VA Access and PIV Card)
 
-1. 
+1. AIDE Access
+2. PIV Card
+3. 

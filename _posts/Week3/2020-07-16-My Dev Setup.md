@@ -26,9 +26,11 @@ Here is how I like to configure my dev machines:
 * Homebrew  `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"` 
 * Visual Studio Code `brew cask install visual-studio-code`
 * Postman `brew cask install postman`
+* iTerm2 `brew cask install iterm2`
 
 #### Communication Tools
-* Slack `brew cask install slack`       
+* Slack `brew cask install slack`   
+* Discord `brew cask install discord`     
 
 #### Software
 * [Microsoft Office (Word, Outlook, Excel, PowerPoint, OneDrive)](https://apps.apple.com/us/app-bundle/microsoft-365/id1450038993?mt=12)
