@@ -1,0 +1,40 @@
+I"�<h2 id="standup">Standup</h2>
+
+<h3 id="yesterday">Yesterday</h3>
+<ul>
+  <li>TMS Trainings for PIV card</li>
+  <li>VBA/VBMS Q &amp; A with Mel G</li>
+  <li>AIDE Access (Thank you Joe!)</li>
+  <li>Le’Fant Training</li>
+</ul>
+
+<h3 id="today">Today</h3>
+<ul>
+  <li>Setup AIDE access</li>
+  <li>To Do items from Jessica Riggs</li>
+  <li>Onboarding Reading/To Do’s on the PA Trello board</li>
+  <li>VA intranet access/CAG installation</li>
+</ul>
+
+<h3 id="impediments">Impediments</h3>
+<p>Just waiting on getting my PIV next week</p>
+
+<h3 id="items-from-team-members">Items from team members</h3>
+<p>Issues in the CAG
+Need DEV credentials to test dev environment</p>
+
+<h3 id="what-i-actually-did-today">What I actually did today</h3>
+<ul>
+  <li>Received email from VA about CAG/VA intranet access, so I read through the docs they sent and installed CAG.</li>
+  <li>Grooming meeting</li>
+  <li>Talked through lessons learned with Joe Evans</li>
+  <li>Read VA Directive 6500</li>
+</ul>
+
+<h3 id="future-onboarding-items-per-joe-evans">Future onboarding items (per Joe Evans)</h3>
+<p>Xray test management
+CI/CD Dashboard
+Citrix Desktop Access Gateway (CAG)
+JumpBox access
+Webtest images for Share</p>
+:ET

@@ -1,0 +1,58 @@
+I"�<h2 id="standup">Standup</h2>
+
+<h3 id="yesterday">Yesterday</h3>
+<ul>
+  <li>Onboarding Reading</li>
+  <li>Once I have my PIV I’ll be working on getting access and</li>
+</ul>
+
+<h3 id="today">Today</h3>
+<ul>
+  <li>Getting my laptop setup today</li>
+  <li>Scour Slack for domain knowledge (make a doc for the SharePoint)</li>
+  <li>Watched a webinar product walkthrough of Xray for Jira (it is a …………….)</li>
+  <li>UI/API w/ React research</li>
+  <li>Ask Joe E how to do the ‘burn up’ process and ‘Shadow task’ in Jira</li>
+</ul>
+
+<h3 id="impediments">Impediments</h3>
+<p>Get PIV on Thursday</p>
+
+<h3 id="next-week">Next Week</h3>
+<ul>
+  <li>Tunnel meeting</li>
+  <li>Splunk</li>
+  <li>Demo next Thursday</li>
+</ul>
+
+<h3 id="items-from-team-members">Items from team members</h3>
+<ul>
+  <li>Jira training</li>
+  <li>Workflow domain knowledge doc</li>
+  <li>Code Review (ShadowTask with Sean K)</li>
+  <li>Update tasks in Jira</li>
+  <li>Look at the burndown to see how the sprint is going</li>
+  <li></li>
+</ul>
+
+<h3 id="what-i-actually-did-today">What I actually did today</h3>
+<ul>
+  <li>Started to learn React, but the instructor recommended upgrading my Vanilla JavaScript chops, so…</li>
+  <li>I went through his Vanilla JavaScript Crash Course… mostly reviewing basics… for some reason I can’t bring myself to skip through… afraid I’ll miss something.</li>
+</ul>
+
+<h3 id="future-onboarding-items-per-joe-evans">Future onboarding items (per Joe Evans)</h3>
+<p>Xray test management
+CI/CD Dashboard
+Citrix Desktop Access Gateway (CAG)
+JumpBox access
+Webtest images for Share</p>
+
+<h4 id="data-creation-process-meta-workflow">Data Creation Process Meta Workflow</h4>
+<ul>
+  <li>Make sure the work you are doing is in a task/sub-task</li>
+  <li>Update the Story (Backlog =&gt; IN PROCESS/READY FOR DEV, ETC.)</li>
+  <li>Research work should be tracked as a task/sub-task if it is significant</li>
+</ul>
+
+:ET

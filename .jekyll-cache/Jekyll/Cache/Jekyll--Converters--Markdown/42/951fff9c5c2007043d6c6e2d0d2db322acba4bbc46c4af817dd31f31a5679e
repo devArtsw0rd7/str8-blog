@@ -1,0 +1,63 @@
+I"�<h2 id="standup">Standup</h2>
+
+<h3 id="yesterday">Yesterday</h3>
+<ul>
+  <li>Scour Slack for domain knowledge (make a doc for the SharePoint)</li>
+  <li>UI/API w/ React/JavaScript research</li>
+  <li>Talked with Joe about some Jira stuff</li>
+</ul>
+
+<h3 id="today">Today</h3>
+<ul>
+  <li>Still working through making some sense of all the information available in Slack</li>
+  <li>Building some QA Domain Knowledge/Onboarding Documentation</li>
+</ul>
+
+<h3 id="impediments">Impediments</h3>
+<p>Get PIV Tomorrow!</p>
+
+<h3 id="next-week">Next Week</h3>
+<ul>
+  <li>Splunk</li>
+  <li>Demo on Thursday</li>
+</ul>
+
+<h3 id="items-from-team-members">Items from team members</h3>
+<ul>
+  <li>Dry run of the tool demo for tomorrow</li>
+</ul>
+
+<h3 id="what-i-actually-did-today">What I actually did today</h3>
+<ul>
+  <li>Started to learn React, but the instructor recommended upgrading my Vanilla JavaScript chops, so…</li>
+  <li>I went through his Vanilla JavaScript Crash Course… mostly reviewing basics… for some reason I can’t bring myself to skip through… afraid I’ll miss something.</li>
+</ul>
+
+<h3 id="future-onboarding-items-per-joe-evans">Future onboarding items (per Joe Evans)</h3>
+<p>PIES? (Joe MacNamara)
+Pension Workflows (with Mel’s document(s))
+Xray test management
+CI/CD Dashboard
+Citrix Desktop Access Gateway (CAG)
+JumpBox access
+Webtest images for Share</p>
+
+<h4 id="data-creation-process-meta-workflow">Data Creation Process Meta Workflow</h4>
+<ul>
+  <li>Make sure the work you are doing is in a task/sub-task</li>
+  <li>Update the Story (Backlog =&gt; IN PROCESS/READY FOR DEV, ETC.)</li>
+  <li>
+    <p>Research work should be tracked as a task/sub-task if it is significant</p>
+  </li>
+  <li>//Life TODO Today
+Standup
+Exercise!
+Work on QA Doc from Slack
+Research Alice, Bob, Eve stuff for QProject
+Grooming session @ 11 am
+Look at calendar for Thesis
+Work on QProject
+Work on QHomework
+Work on thesis</li>
+</ul>
+:ET

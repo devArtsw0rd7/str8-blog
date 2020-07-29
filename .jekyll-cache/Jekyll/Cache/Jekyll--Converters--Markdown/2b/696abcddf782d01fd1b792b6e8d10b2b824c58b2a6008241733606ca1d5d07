@@ -1,4 +1,4 @@
-I"k<h2 id="macbook-pro-setup">MacBook Pro Setup</h2>
+I"7<h2 id="macbook-pro-setup">MacBook Pro Setup</h2>
 
 <h3 id="here-are-my-macbook-specs">Here are my MacBook specs:</h3>
 
@@ -22,11 +22,13 @@
   <li>Homebrew  <code class="language-plaintext highlighter-rouge">/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"</code></li>
   <li>Visual Studio Code <code class="language-plaintext highlighter-rouge">brew cask install visual-studio-code</code></li>
   <li>Postman <code class="language-plaintext highlighter-rouge">brew cask install postman</code></li>
+  <li>iTerm2 <code class="language-plaintext highlighter-rouge">brew cask install iterm2</code></li>
 </ul>
 
 <h4 id="communication-tools">Communication Tools</h4>
 <ul>
   <li>Slack <code class="language-plaintext highlighter-rouge">brew cask install slack</code></li>
+  <li>Discord <code class="language-plaintext highlighter-rouge">brew cask install discord</code></li>
 </ul>
 
 <h4 id="software">Software</h4>

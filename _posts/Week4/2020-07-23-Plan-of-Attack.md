@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 4, Day 15"
+title:  "Plan of Attack"
 date:   2020-07-23 007:37:44 -0600
 categories: jekyll update
 ---
