@@ -1,0 +1,67 @@
+I"Z	<h2 id="standup">Standup</h2>
+
+<h3 id="friday">Friday</h3>
+<ul>
+  <li>VBMS Rating User Guide</li>
+  <li>Watch the Claims Script overview</li>
+  <li>VBMS Training @ 11 am</li>
+</ul>
+
+<h3 id="today">Today</h3>
+<p>Awards User Guide
+API Training video
+Look on with Sean/Andrew on the following projects:
+PEN-3111 API Automation of Completing Rating Profile and Intro/Evidence (3b &amp; 3c)
+PEN-3217 API Automation of Issue Management (3d)
+PEN-3220 AAPI Automation of Entering Compensation Decisions</p>
+
+<h3 id="impediments">Impediments</h3>
+<p>VA Access</p>
+
+<h3 id="items-from-team-members">Items from team members</h3>
+<p>BPDS Testing tomorrow (Charles)
+Command-line tool “tire-kicking”
+No one on the team has jumpbox, most with GFE? (Windows)
+Need to use the Token to elevate rights to test the command-line tool?
+What is % of people using GFE vs JumpBox
+Per Sean K, most developers are using JumpBox</p>
+
+<h4 id="gfe-vs-jumpbox">GFE vs JumpBox</h4>
+<ul>
+  <li>You can do pretty much everything via GFE</li>
+  <li>Updates can slow things down via JumpBox</li>
+  <li>JumpBox can be nitpicky and painful to setup</li>
+</ul>
+
+<h4 id="update-from-ansley">Update from Ansley</h4>
+<ul>
+  <li>Communicated that teams need to stage their own data and not have the expectation that TigerTest will do this for them</li>
+</ul>
+
+<h4 id="command-line-tool-demo">Command Line Tool Demo</h4>
+<ul>
+  <li>Log Parser is built, so we are able to see what file numbers are generated</li>
+  <li>Additional params can be overridden as per the ReadMe</li>
+  <li>Can’t say dependent is child, spouse only</li>
+  <li>Happy Value workflows/Testing?</li>
+  <li>Open up each created record in Share/VBMS (Log out/Log in, see the changes)</li>
+  <li>Need to update the ReadMe about how to get the tool up and running</li>
+  <li>Try running the tool at the same time (multiple users)
+    <ul>
+      <li>Only possible issue would be related to creating multiple duplicate SSNs/IDs</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="what-i-actually-did-today">What I actually did today</h3>
+<p>VBMS Awards User Guide 
+API Overview
+VA credentials were transferred to BIP, so I was able to schedule a pickup of my PIV!
+PIV Training on TMS</p>
+
+<h3 id="future-onboarding-items-per-joe-evans">Future onboarding items (per Joe Evans)</h3>
+<p>CI/CD Dashboard
+Citrix Desktop Access Gateway (CAG)
+JumpBox access
+Webtest images for Share</p>
+:ET

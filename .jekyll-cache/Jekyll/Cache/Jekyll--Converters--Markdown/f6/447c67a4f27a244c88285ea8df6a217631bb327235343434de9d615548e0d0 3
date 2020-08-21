@@ -1,0 +1,55 @@
+I"�<h2 id="standup">Standup</h2>
+
+<h3 id="yesterday">Yesterday</h3>
+<ul>
+  <li>Watched the Manual Data Creation video in the PA Notebook</li>
+  <li>PA QA Sync @ 11-11:30 am</li>
+  <li>Jira walkthrough @ 12 pm</li>
+  <li>Read through VBMS Guide</li>
+</ul>
+
+<h3 id="today">Today</h3>
+<ul>
+  <li>Grooming session @ 11 am</li>
+  <li>Read VBMS</li>
+  <li>Watch some more training videos (if I can get them to work…)
+UPDATE… gotta install Microsoft Silverlight…
+2nd UPDATE… and that didn’t work…</li>
+</ul>
+
+<p>The joy of Microsoft products on a Mac…</p>
+
+<ul>
+  <li>Jump in w/ Sean &amp; Andrew depending on what they’re working on</li>
+</ul>
+
+<h3 id="impediments">Impediments</h3>
+<ul>
+  <li>VA Access/PIV</li>
+</ul>
+
+<h3 id="other-team-member-info">Other team member info</h3>
+<p>Get other user VBMS User Guides from Mel (he posted them in the SharePoint)</p>
+
+<h3 id="grooming-session">Grooming Session</h3>
+
+<p>Python vs. Java
+Jython?</p>
+
+<p>Spreadsheet CSV import for tasks</p>
+
+<h3 id="what-i-actually-did">What I actually did</h3>
+
+<ul>
+  <li>Tried to get videos to work (for some reason the ‘Initial-API-Framework-Overview’ and ‘Review of Methods for Claims Test Data’ videos will not play. Tried it in all the browsers, tried downloading it, installed Microsoft Silverlight plugin… still no dice.)</li>
+  <li>Watched the Claims Script overview</li>
+  <li>Looked through DIC Surviving Spouse Data Staging.xlsx</li>
+  <li>Read ‘Veteran creation and data modification tools.docx’ by Sean K.</li>
+</ul>
+
+<p>This contained discussion of the Void testing framework</p>
+<ul>
+  <li>Charles fixed the vids for me, so I watched those and took notes</li>
+</ul>
+
+:ET

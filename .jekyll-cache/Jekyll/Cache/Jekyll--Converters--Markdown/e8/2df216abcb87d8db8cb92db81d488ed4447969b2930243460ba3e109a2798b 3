@@ -1,0 +1,90 @@
+I"X<h2 id="end-of-first-full-week">End of first full week</h2>
+
+<p>This has been a good first week. I’m a little worn out by staring at a screen for so long (going to have to figure out a better rhythm of stepping away, exercising, etc.), but other than that it was mostly low key.</p>
+
+<p>I had two meetings today, one at 6:45 am and one at 8 am… so I got up, showered, got ready, and the Scrum master cancelled them both (at 6:45 am) and rescheduled for 9 am.</p>
+
+<p>sigh…</p>
+
+<h2 id="the-friday-plan">The Friday Plan</h2>
+
+<p>So what’s my plan for today? I sent all of my TMS training certificates to my contact at BAH, and she let me know I was missing one this morning. Not sure how I missed one, but ok! There were 11 mandated trainings and I had 11 different certificates… oh well.</p>
+
+<p>It was very similar, if not exactly the same as the last one I did yesterday about Information Security, so I knocked it out in less than 10 minutes and sent it off.</p>
+
+<p>Here are the things I can/need to do:</p>
+
+<ul>
+  <li>Self-guided training on topics I heard in meetings that I know nothing about:
+    <ol>
+      <li>Camunda</li>
+      <li>Oracle Database/ Java</li>
+      <li>Kivy (Python UI toolkit)</li>
+      <li>Connecting up Python (Kivy) with an AWS RDS instance and Oracle database</li>
+      <li>Some VA-related self-traning (mostly learning some more acronyms…)</li>
+      <li>Build a quick flask app with Kivy (maybe try to mock up a basic version of what my fellow Devs are working on)</li>
+      <li>Add the ability to see a directory/file structure within an app</li>
+      <li>JSON Schema</li>
+      <li>Workflow orchestration in Python</li>
+      <li>Creating the ability to select a Test or Dev environment in an application (remote development?)</li>
+      <li>APIs, service calls</li>
+      <li>Xray for Jira</li>
+    </ol>
+  </li>
+  <li>Email some BAH people about the following:
+    <ol>
+      <li>How to setup my MacBook Pro according to company/VA policy</li>
+      <li>Learn the modules of bah.com (if I’m authorized…)</li>
+    </ol>
+  </li>
+  <li>Grad school that I’ve been massively neglecting…
+    <ol>
+      <li>Email Canadian guy in Australia about survey questions</li>
+      <li>Build my survey</li>
+      <li>Read a ton</li>
+      <li>Write a ton</li>
+    </ol>
+  </li>
+</ul>
+
+<p>So yeah, plenty to do today…</p>
+
+<h2 id="stand-up-retrospective-etc">Stand-up, Retrospective, etc.</h2>
+
+<p>So for today’s standup, here’s what I got:</p>
+
+<p>1) Finished up my TMS Trainings, received my laptop</p>
+
+<p>2) VA documents for my PIV, may need to drive to Denver VA office. If not, I’m going to do some self-guided learning on our tech stack, mainly getting up to speed on Oracle database and Jira stuff.</p>
+
+<p>3) Just waiting on the next steps for onboarding, Slack, etc. &amp; setting up my dev machine.</p>
+
+<p>Others-</p>
+
+<p>Andrew &amp; Sean Wired menu system to the backend</p>
+
+<h3 id="for-next-week">For next week</h3>
+
+<p>Sean &amp; Andrew will work on Switch Environments Tasks
+*config file 
+*parser
+*build UI hook</p>
+
+<h3 id="new-acronyms">New Acronyms!</h3>
+
+<p>ESR- External Sprint Review
+L&amp;L- “Lunch and Learn” demo</p>
+
+<h3 id="pre-planning">Pre-planning</h3>
+
+<p>Monday- Pair programming w/ Sean and Andrew C!</p>
+
+<p>Jira walkthrough</p>
+
+<p>Test the application and by the end of the week be able to quickly demo at a ‘Lunch and Learn’</p>
+
+<h3 id="after-the-meeting">After the meeting…</h3>
+
+<p>So after the meeting, I now have access to Slack and the Pension Automation SharePoint, so I have access to a lot of reading material now, so I’ll probably read a lot of that.</p>
+
+:ET
