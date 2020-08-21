@@ -1,4 +1,4 @@
-I"É<h2 id="standup">Standup</h2>
+I"a<h2 id="standup">Standup</h2>
 <ul>
   <li>Quick update on current status</li>
   <li>No real standup info</li>
@@ -13,9 +13,20 @@
 <h3 id="today">Today</h3>
 <ul>
   <li>Access CAG</li>
-  <li>Get VA Email address going</li>
-  <li>Follow the onboarding docs or email from Jessica Riggs for next steps</li>
+  <li>Get VA Email address access</li>
+  <li>Joe helped me through the onboarding docs to get setup</li>
   <li>While doing all that, sit in with Andrew C and Sean to get spun up on the codebase</li>
+  <li>Max.gov Registration</li>
+  <li>Team GitHub request access</li>
+  <li>VA GitHub request access</li>
+  <li>Request IDM Account for Kubernetes</li>
+</ul>
+
+<h3 id="tomorrow">Tomorrow</h3>
+<ul>
+  <li>Get spun up to help Sean &amp; Andrew</li>
+  <li>Splunk Access</li>
+  <li></li>
 </ul>
 
 <h3 id="impediments">Impediments</h3>
@@ -31,6 +42,16 @@
 <ul>
   <li>Kivy/KivyMD</li>
   <li>Adobe XD</li>
+</ul>
+
+<h3 id="todo">//TODO</h3>
+<ul>
+  <li>Github</li>
+  <li>Jumpbox</li>
+  <li>Splunk</li>
+  <li>Jira</li>
+  <li>Camunda</li>
+  <li></li>
 </ul>
 
 :ET

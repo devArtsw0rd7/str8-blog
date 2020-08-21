@@ -1,0 +1,46 @@
+I"�<h2 id="standup">Standup</h2>
+
+<h3 id="yesterday">Yesterday</h3>
+<ul>
+  <li>Access CAG</li>
+  <li>Get VA Email address access</li>
+  <li>Joe helped me through the onboarding docs to get setup</li>
+  <li>While doing all that, sit in with Andrew C and Sean to get spun up on the codebase</li>
+  <li>Max.gov Registration</li>
+  <li>Team GitHub request access</li>
+  <li>VA GitHub request access</li>
+  <li>Request IDM Account for Kubernetes</li>
+</ul>
+
+<h3 id="today">Today</h3>
+<ul>
+  <li>Monthly Status Report for Le’Fant (complete)</li>
+  <li>Setup next month’s Status Report to update on the fly</li>
+  <li>Request Splunk Access (complete)</li>
+  <li>Get BIP Platform Production &amp; VBMS TestProd Database Access (PIV card not working…possibly wrong CAG desktop)</li>
+  <li>Received Kubernetes and IDM Account Access (complete)</li>
+  <li>Installed Certificates on dev machine</li>
+  <li>Reqeusted Adobe XD via help desk (access.bah.com)</li>
+  <li>Get spun up to help Sean &amp; Andrew</li>
+</ul>
+
+<h3 id="tomorrow">Tomorrow</h3>
+<ul>
+  <li>Work on obtaining access to various systems/applications</li>
+  <li>Get spun up as a developer</li>
+</ul>
+
+<h3 id="impediments">Impediments</h3>
+<p>Waiting for AWS Tunnel SSH keys/access</p>
+
+<h3 id="to-learn">TO LEARN</h3>
+<ul>
+  <li>Kivy/KivyMD</li>
+  <li>Adobe XD</li>
+</ul>
+
+<h3 id="eod-update-for-slack">EOD Update for Slack</h3>
+
+<p>EOD: Waiting on AWS Tunnel SSH keys to configure my Jumpbox. Gained access to Team GitHub (waiting to be added to the EPMO group) and VA GitHub. Ansley is helping Andrew C and I get licenses to Adobe XD for UI development next week. Received IDM/Kubernetes access. Requested Splunk access, should be good once I have Tunnel access. Andrew C gave me a quick overview of Splunk. Slight snag getting BIP Platform Production &amp; VBMS TestProd Database access, but as I gain access to more CAG desktops, this should hopefully be resolved. Completed my monthly Le’Fant “TPS report” (Status report for BAH reporting). And… done.</p>
+
+:ET
