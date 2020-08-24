@@ -1,0 +1,153 @@
+I"�<h2 id="stand-up">Stand-up</h2>
+
+<p>My lead changed the morning standup to 8:00 am my time, so I got to sleep in a bit today!</p>
+
+<p>1) What did you do yesterday?
+   I knocked out 5 TMS trainings.
+2) What will you do today?
+   Pending Internet speeds, I should be able to finish the TMS trainings, then I will also be finishig up forms (NDA and Remote issuance SEF form) for Booz Allen Hamilton, as my background check is complete and I’m moving on to ‘Gemalto remote issuance.’ 
+3) Are there any blockers or impediments preventing you from doing your work?
+   Internet speeds. The joys of rural Internet… I looked at costs of buying a mobile hotspot from AT&amp;T vs just paying for more bandwidth from my ISP, and I’m still mulling it over. I’m kinda leaning towards the mobile hotspot because it is cheaper in the long run and I could have the Internet wherevver there’s a cell signal, but it makes me nervous too. Might be nce to just pay for more bandwidth…
+   Also, the speed at which people email me back. Lots of newbie questions…</p>
+
+<h2 id="the-joys-of-government-work">The Joys of Government Work</h2>
+
+<p>So the background check to end all background checks got pushed back to me because I didn’t type out “County Road” (I did Co Rd instead)…</p>
+
+<p>As a result I had to effectively go through the entire process again. Ugh. Sometimes I wonder if they make things intentionally irksome just to see if we’ll put up with it…</p>
+
+<h2 id="backlog-refinement-meeting">Backlog Refinement Meeting</h2>
+
+<p>So we had a ‘backlog refinement meeting’ scheduled for 2 hours. 
+Notes from the meeting:</p>
+
+<p>Discussion/whiteboarding requirements</p>
+
+<p>John- dev lead for a scrum team
+Grant is the dev lead for Pension automation- make sure we’re on the right path and next steps laid out correctly</p>
+
+<p>API solution
+proof of concept- burial and DIC</p>
+
+<p>create veteran
+gen address
+gen dependent
+gen initial claim</p>
+
+<p>rating/word process? not yet</p>
+
+<p>NEXT ITERATION: configurable based on type of claim</p>
+
+<p>-pass in a log to overwrite generated</p>
+
+<p>Support setting up their military service history?</p>
+
+<p>-time enrolled?
+-retired?</p>
+
+<p>EAD/RAD
+Verified service?
+Active duty?
+Character service=&gt; Honorably/Dishonorably discharged?</p>
+
+<p>Test positive/negative cases</p>
+
+<p>Needs to be configurable right out of the box.</p>
+
+<ol>
+  <li>Veteran/dependent creation</li>
+  <li>Claim</li>
+  <li>Rating</li>
+  <li>Award</li>
+</ol>
+
+<p>Pick standard scenarios
+Burial
+-ServiceConnected, NonServiceConnected</p>
+
+<p>DIC
+-dependent is child/spouse/parent</p>
+
+<p>Create a utility to quickly spin up veterans for use in testing</p>
+
+<p>without making a change or changing code</p>
+
+<p>test automation</p>
+
+<p>ad hoc</p>
+
+<p>Moving towards a web application=&gt;</p>
+
+<p>library/parameterized function
+UI/database on top of it may be a next step</p>
+
+<p>regression testing- certain data we always need</p>
+
+<p>yml file (more complex data structures)
+-defaults, override defaults</p>
+
+<p>Tool is Currently JSON (Dictionary/Hashmap)
+No database issue = Generate file numbers with many people running the tool (concurrency)</p>
+
+<p>9 digit (SSN-like)
+Social and claim #
+CXXXXXXXX (8 digit number)
+Vets w/o SSN</p>
+
+<p>BIRLS- search all in list</p>
+
+<p>Java =&gt;</p>
+
+<p>implements Serializable</p>
+
+<p>menu system/CL tool</p>
+
+<p>pick a file number associated with 
+service calls</p>
+
+<p>CLINT</p>
+
+<p>UI</p>
+<ol>
+  <li>flask</li>
+  <li>oracle</li>
+  <li>Amazon RDS</li>
+  <li>kivy</li>
+</ol>
+
+<p>BPD-side
+-populate BPD Schema from Forms…can create scenario based data</p>
+
+<p>users set up BPD themselves</p>
+
+<p>label this is vet data, this is claimant data</p>
+
+<p>How are we generating names?</p>
+
+<p>pick up where you left off
+data for a given scenario</p>
+
+<p>May need fields that are blank for non-required fields (pass in null?)</p>
+
+<p>directory finder in python</p>
+
+<h2 id="plan-it-poker">Plan-it Poker</h2>
+
+<p>For the uninitiated (like me today…), Plan-it Poker is basically a consensus-creating interface with digital playing cards on the screen, each with a number on it that corresponds to a description of work (can be easy, medium, hard… s, m, l… 1, 2, 3, etc.). The Scrum master prompts everyone to read a particular story and click on the card with the number that they think most closely matches the scope of the story’s work. Then everyone’s number is revealed, a short discussion/explanation of everyone’s choices ensues, then the Scrum master calls for a revote. Rinse and repeat until there is a consensus. Good stuff!</p>
+
+<h2 id="stuff-to-investigatelearn">Stuff to investigate/learn</h2>
+
+<p>JSON Schema
+How to pass in/select an environment (DEV or TST)
+Call orchestrator? Workflow 
+api service calls (configurable)
+Xray test management</p>
+
+<h2 id="training">Training</h2>
+
+<p>The meeting was 2 hours long, and afterwards I needed a break. I worked out for an hour, picked up Milo, then got back to my trainings. I worked on another training, but the Internet/VA server was really slow, so I was only able to finish up one more module. My brain is getting tired pretty quickly after 3 pm, so I need to work on getting lots done in the mornings.</p>
+
+<h2 id="gfe">GFE!</h2>
+
+<p>My “Governemnt Furnished Equipment” came today! I was provided with a 2020 MacBook Pro [MacBookPro16,2] (Silver 13-inch with Four Thunderbolt 3 ports, 2.0GHz QC i5, 16GB LPDDR4X memory, 512 GB SSD, Touch Bar/Touch ID)! Can’t wait to get developing!</p>
+:ET

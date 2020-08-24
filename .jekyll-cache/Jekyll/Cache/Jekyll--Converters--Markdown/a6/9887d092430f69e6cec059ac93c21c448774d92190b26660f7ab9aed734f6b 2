@@ -1,0 +1,42 @@
+I"+<h2 id="standup">Standup</h2>
+
+<h3 id="yesterdaytuesday">Yesterday/Tuesday</h3>
+<ul>
+  <li>Monthly Status Report for Le’Fant (complete)</li>
+  <li>Setup next month’s Status Report to update on the fly</li>
+  <li>Request Splunk Access (complete)</li>
+  <li>Get BIP Platform Production &amp; VBMS TestProd Database Access (PIV card not working…possibly wrong CAG desktop)</li>
+  <li>Received Kubernetes and IDM Account Access (complete)</li>
+  <li>Installed Certificates on dev machine</li>
+  <li>Reqeusted Adobe XD via help desk (access.bah.com)</li>
+  <li>Get spun up to help Sean &amp; Andrew</li>
+  <li>Jury Duty</li>
+</ul>
+
+<h3 id="today">Today</h3>
+<ul>
+  <li>Request ePas access</li>
+  <li>UAT Testing Walkthrough with MK</li>
+  <li>Confirmed Kubernetes access</li>
+  <li>Gained access to Team GitHub EPMO</li>
+</ul>
+
+<h3 id="tomorrow">Tomorrow</h3>
+<ul>
+  <li>Same</li>
+</ul>
+
+<h3 id="impediments">Impediments</h3>
+<p>Waiting for AWS Tunnel SSH keys/access</p>
+
+<h3 id="to-learn">TO LEARN</h3>
+<ul>
+  <li>Kivy/KivyMD</li>
+  <li>Adobe XD</li>
+</ul>
+
+<h3 id="eod-update-for-slack">EOD Update for Slack</h3>
+
+<p>EOD: Sat in on MK’s UAT walkthrough this morning. I now have access to all the desktops in CAG, which allowed me to successfully request ePas access. Working on gaining access to all the different systems/repos needed for our work. Gained access to EPMO GitHub (still waiting on access to fiduciary… Daniel Ragan is just slammed, so I will follow up tomorrow morning first thing…thanks Ansley for the help!). Still waiting on AWS Tunnel SSH keys.</p>
+
+:ET

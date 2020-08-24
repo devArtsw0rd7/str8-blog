@@ -1,0 +1,31 @@
+I"#<h2 id="standup">Standup</h2>
+
+<h3 id="yesterdaytuesday">Yesterday/Tuesday</h3>
+<ul>
+  <li></li>
+</ul>
+
+<h3 id="today">Today</h3>
+
+<h3 id="next-week">Next Week</h3>
+<ul>
+  <li>High probability that DocGen and Awards will roll to next week</li>
+  <li></li>
+</ul>
+
+<h3 id="impediments">Impediments</h3>
+<ul>
+  <li>None</li>
+</ul>
+
+<h3 id="to-learn">TO LEARN</h3>
+<ul>
+  <li>Kivy/KivyMD</li>
+  <li>Python OOP</li>
+</ul>
+
+<h3 id="eod-update-for-slack">EOD Update for Slack</h3>
+
+<p>EOD: Hear ye, hear ye! ANDREW C. FINISHED THE WIRING AND HANDLER STORY! JoeE, you can start testing! Wooo!
+I got the Awards services digested, and Andrew S and I created a few more veterans added. The finalize bug seemed to persist when Dev re-deployed. We can start looking at the docgen service stuff tomorrow morning.</p>
+:ET
