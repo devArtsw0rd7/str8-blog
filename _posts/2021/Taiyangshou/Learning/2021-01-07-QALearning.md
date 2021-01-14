@@ -44,4 +44,55 @@
 
 "1-switch coverage"- every two pair transition in a system is tested
 
+#### Negative Testing
+    * Proper test coverage includes positive and negative testing
+    * Positive testing = determines that the application works as expected ("Happy Path" testing)
+    * Negative testing = ensures that an application can gracefully handle invalid input or unexpected user behavior
+    * PURPOSE: detect such unexpected situations and prevent the app from crashing
+
+
+    Common examples: populating required fields (make a test that leaves required fields empty)
+                     allowed data bounds and limits (tests outside of accepted limits)
+
+#### Smoke, Sanity, and Regression Testing
+
+    * Smoke Testing (Initial unstable builds)
+      * carried out during initial development stages of the SDLC to make sure core functionalities of a program are working fine without any issues
+      * Main tenet: Verify that the core or main functionalities work (NOT DEEP TESTING)
+    * Done when developers provide a fresh build to the QA team or when a new module is added to existing functionality
+
+    * Sanity Testing (Stable builds- Surface level testing to figure out if software is ready for end-to-end testing)
+      * performed to check whether a software product is working correctly when a new module or functionality gets implemented to an existing product
+      * usually performed after receiving a stable software build or after minor changes in code/functionality
+      * Typically performed after a bug fix, just before deployment to prod
+
+
+    * Regression testing (Complete Verification testing)
+      * Any time production code is changed
+      * the process of verifying that the software still performs correctly after changes were introduced
+      * ensures enhancements or bug fixes have not adversely affected what was previously built and tested
+      * new tests are not created, but previous tests are re-run
+
+        * Promotes the improvement of product quality
+        * ensures that issues already detected and fixed are not recreateable
+        * allows dev team to be confident about the release
+
+#### Risk-based testing
+
+    * helps prioritize testing to obtain higher levels of quality
+    * Risk = Impact x Likelihood
+
+
+#### Static & Dynamic Testing
+    * Dynamic Testing
+      * Requires software to be executed 
+    * Static Testing
+      * assess code or work product 
+
+#### Test Plan
+    * document detailing objectives, resources, and processes for a specific test
+      * What to test?
+      * How to test?
+      * How much time?
+
 
