@@ -10,7 +10,7 @@
 # QA Non-scrum responsibilities
 * On a daily basis, what should I be doing?
 * 508 Defects?
-* So I see people chatting about testing on the dqsa channel... what is this, and what are my responsibilities vis a vis the items going on on the dqsa channel?
+* So I see people chatting about testing on the dqsa channel... what is this, and what are my responsibilities vis a vis the items going on in the dqsa channel?
 * What is the process for going through bugs on the QA Dashboard?
 * When trying to reproduce defects in IE11 VM on a mac, how do I access the CI&D dashboard?
 
