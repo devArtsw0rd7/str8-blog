@@ -1,0 +1,1 @@
+When creating tests for our scrum team stories, do we click "Create Test" from the story, or do we still go through VBMSTM (Test Management) and associate our story via the Issues dropdown?
