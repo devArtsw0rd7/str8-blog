@@ -15,7 +15,8 @@ Get to Dashboards on GFE?
 	Not sure if its fixed or not…
 	FIXED in DEV/TEST
 		Add comments->Test again in Build xxxxxx (wait for xxx build)
-	
+	How to test in IE (setting up credentials/access in VM)? JAWS on GFE!
+
 	What is SQA?
 	
 Allison Tumminia- Defect manager
