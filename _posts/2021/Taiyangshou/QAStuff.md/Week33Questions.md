@@ -1,10 +1,8 @@
-When creating tests for our scrum team stories, do we click "Create Test" from the story, or do we still go through VBMSTM (Test Management) and associate our story via the Issues dropdown? CREATE TEST, then select VBMSTM from Projects! (I wasn't added to the project access!)
-
-What is test coverage? Why, after I have run a test, does it say "NOT RUN" under test coverage?
+Under test coverage? Why, after I have run a test, does it say "NOT RUN" under test coverage?
 
 In a story that I've failed, what does a Requirements Status of NOK (red) mean?
 
-What is the test creation/execution/Jira workflow? How do I/do I need to track hours when testing?
+What is the test creation/execution/Jira workflow? How do I(or do I) need to track hours when testing?
 
 Where does BUILD #/Version come into this process? How do I find the build? (This may be related to the fact that I don't have BFFS pulled down correctly yet?)
 
@@ -41,7 +39,7 @@ IN JIRA TEST SCREEN
 
 
 Story
-    ->Test
+    Linked to a Test
         Open
         Draft
         Review
@@ -52,3 +50,6 @@ Story
                 Stop Progress
                 Resolve Issue
                 Close Issue
+
+ANSWERED:
+When creating tests for our scrum team stories, do we click "Create Test" from the story, or do we still go through VBMSTM (Test Management) and associate our story via the Issues dropdown? CREATE TEST, then select VBMSTM from Projects! (I wasn't added to the project access!)
